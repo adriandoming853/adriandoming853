@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adrian Dominguez
 =========================================================================================================================================
 
-Hi, I’m Adrian Dominguez. I am a high school student passionate about cybersecurity engineering, penetration testing, and ethical hacking.
+Hi, I’m Adrian Dominguez. I am a Running Start high school student passionate about cybersecurity engineering, penetration testing, and ethical hacking.
 
-My goal is to pursue a Bachelor’s degree in Computer Science after graduating high school. In my free time, I love building hands-on tech projects to expand my skills and understand how systems work from the inside out.
+My goal is to leverage my college-level coursework to pursue a Bachelor’s degree in Cybersecurity, building on a strong foundation in Computer Science. In my free time, I love creating hands-on tech projects to expand my technical skills and understand how systems work from the inside out.
 
-I'm always looking to connect with peers, mentors, and industry professionals. Feel free to reach out to me here on LinkedIn!
+I am always looking to connect with peers, mentors, and industry professionals in the tech space. Feel free to reach out to me here on LinkedIn!
 
 * 🌍  I'm based in Washington State
 * 🖥️  See my portfolio at [My Repos/Projects!](http://github.com/adriandoming853?tab=repositories)
